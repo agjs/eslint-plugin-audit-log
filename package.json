@@ -29,7 +29,6 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
-    "prepare": "npm run build",
     "prepack": "npm run build"
   },
   "keywords": [
