@@ -1,5 +1,10 @@
 # eslint-plugin-audit-log
 
+[![CI](https://github.com/agjs/eslint-plugin-audit-log/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/agjs/eslint-plugin-audit-log/actions/workflows/ci.yml)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Typecheck](https://img.shields.io/badge/typecheck-passing-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 ESLint rules that keep audit trails honest:
 
 - **`mutating-service-must-audit`** — every mutating service method
